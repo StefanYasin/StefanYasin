@@ -46,9 +46,9 @@ Health monitoring and AI provisioning agent for legacy Dell PowerEdge servers on
 Fan control for Dell PowerEdge servers. Quiet your rack without cooking your drives.
 ![Stars](https://img.shields.io/github/stars/StefanYasin/dellsilencer?style=flat&label=stars&color=24292F)
 
-### Homelab
+### Homelab & Smart Home
 
-Full-size server rack with a 40GbE fibre backbone bridged to 10GbE copper, remote global access via Tailscale, reverse tunneling, and a VPS interlink. Simulates a corporate and cloud-scale environment for ongoing skills development.
+Full-size server rack with a 40GbE fibre backbone bridged to 10GbE copper, remote global access via Tailscale, reverse tunneling, and a VPS interlink. Solar-supported, and it extends beyond the rack: whole-home smart automation for lighting, climate, security, and media. Simulates a corporate and cloud-scale environment for ongoing skills development.
 
 ## Skills
 
