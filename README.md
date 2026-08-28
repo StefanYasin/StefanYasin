@@ -119,4 +119,5 @@ Full-size server rack with a 40GbE fibre backbone bridged to 10GbE copper, remot
 
 - [LinkedIn](https://www.linkedin.com/in/stefanyasin/)
 - [Email](mailto:StefanYasin@gmail.com)
+- [Phone](tel:+14167351899) (416) 735-1899
 - [Portfolio](https://stefanyasin.github.io/)
