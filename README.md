@@ -103,9 +103,13 @@ Full-size server rack with a 40GbE fibre backbone bridged to 10GbE copper, remot
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanYasin&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanYasin&layout=compact&theme=github_dark&hide_border=true)
 ![GitHub streak](https://streak-stats.demolab.com/?user=StefanYasin&theme=github-dark&hide_border=true)
+
+![Followers](https://img.shields.io/github/followers/StefanYasin?style=flat&label=followers&color=2ea44f)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FStefanYasin&query=public_repos&label=public%20repos&color=2ea44f)
+![Profile activity](https://img.shields.io/github/last-commit/StefanYasin/StefanYasin?style=flat&label=profile%20activity&color=2ea44f)
+
+<!-- github-readme-stats + profile-trophy services are currently down (503/402). Re-add the animated stats cards when they recover: https://github-readme-stats.vercel.app/api?username=StefanYasin&theme=github_dark&hide_border=true -->
 
 ## Achievements
 
