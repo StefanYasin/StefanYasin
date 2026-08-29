@@ -101,6 +101,18 @@ Full-size server rack with a 40GbE fibre backbone bridged to 10GbE copper, remot
 ![Omron](https://img.shields.io/badge/Omron-1A1A1A?style=flat)
 ![Schneider](https://img.shields.io/badge/Schneider-3DCD58?style=flat)
 
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanYasin&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanYasin&layout=compact&theme=github_dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=StefanYasin&theme=github-dark&hide_border=true)
+
+## Achievements
+
+- **Quickdraw** - opened a pull request within 5 minutes of opening its issue
+- **Pull Shark** - merged pull requests
+- **YOLO** - merged a pull request without review
+
 ## Certifications
 
 **Earned**
