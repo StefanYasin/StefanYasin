@@ -2,10 +2,12 @@
 <p align="center"><b>Technical Operations &nbsp;·&nbsp; IT Infrastructure &nbsp;·&nbsp; Applied AI</b><br>Hamilton, Ontario, Canada</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stefanyasin/"><img src="https://img.shields.io/badge/LinkedIn-Stefan%20Yasin-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:StefanYasin@gmail.com"><img src="https://img.shields.io/badge/Email-StefanYasin%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/stefanyasin/"><img src="https://img.shields.io/badge/LinkedIn-Stefan%20Yasin-0A66C2?style=flat" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@StefanThePro"><img src="https://img.shields.io/badge/YouTube-@StefanThePro-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:StefanYasin@gmail.com"><img src="https://img.shields.io/badge/Email-StefanYasin%40gmail.com-EA4335?style=flat" alt="Email"></a>
   <a href="https://stefanyasin.github.io/"><img src="https://img.shields.io/badge/Portfolio-stefanyasin.github.io-181717?style=flat" alt="Portfolio"></a>
   <a href="https://orcid.org/0009-0004-3416-7447"><img src="https://img.shields.io/badge/ORCID-0009--0004--3416--7447-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <img src="https://img.shields.io/badge/Made%20in-Canada-d52b1e?style=flat" alt="Made in Canada">
   <img src="https://img.shields.io/badge/Open%20to%20work-Senior%20roles-2ea44f?style=flat" alt="Open to work">
 </p>
 
@@ -55,7 +57,7 @@ Full-size server rack with a 40GbE fibre backbone bridged to 10GbE copper, remot
 **Infrastructure**
 
 ![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=flat&logo=vmware&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -73,7 +75,7 @@ Full-size server rack with a 40GbE fibre backbone bridged to 10GbE copper, remot
 **Automation & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Local LLMs](https://img.shields.io/badge/Local%20LLMs-10A37F?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-10A37F?style=flat)
@@ -86,12 +88,12 @@ Full-size server rack with a 40GbE fibre backbone bridged to 10GbE copper, remot
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat)
 
 **Industrial**
 
