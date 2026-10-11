@@ -6,6 +6,7 @@
   <a href="https://youtube.com/@StefanThePro"><img src="https://img.shields.io/badge/YouTube-@StefanThePro-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:StefanYasin@gmail.com"><img src="https://img.shields.io/badge/Email-StefanYasin%40gmail.com-EA4335?style=flat" alt="Email"></a>
   <a href="https://stefanyasin.github.io/"><img src="https://img.shields.io/badge/Portfolio-stefanyasin.github.io-181717?style=flat" alt="Portfolio"></a>
+<a href="https://buymeacoffee.com/stefanthepro"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
   <a href="https://orcid.org/0009-0004-3416-7447"><img src="https://img.shields.io/badge/ORCID-0009--0004--3416--7447-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
   <img src="https://img.shields.io/badge/Made%20in-Canada-d52b1e?style=flat" alt="Made in Canada">
   <img src="https://img.shields.io/badge/Open%20to%20work-Senior%20roles-2ea44f?style=flat" alt="Open to work">
