@@ -13,28 +13,16 @@ I build practical security, monitoring, and automation tools for homelabs and sm
 
 ## Featured Projects
 
-| Project | What it does | Stack | Status |
-| --- | --- | --- | --- |
-| [eagleeye2](https://github.com/StefanYasin/eagleeye2) | OSINT: find a person's social profiles from a face photo | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/eagleeye2?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/eagleeye2/ci.yml?style=flat&label=tests) |
-| [endpointwatch](https://github.com/StefanYasin/endpointwatch) | Live-response Windows endpoint monitor with LLM alerts and baseline drift detection | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/endpointwatch?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/endpointwatch/ci.yml?style=flat&label=tests) |
-| [pinggrid](https://github.com/StefanYasin/pinggrid) | Network monitoring dashboard that auto-configures itself | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/pinggrid?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/pinggrid/ci.yml?style=flat&label=tests) |
-| [rackpulse](https://github.com/StefanYasin/rackpulse) | Health monitoring for legacy Dell PowerEdge servers on ESXi | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/rackpulse?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/rackpulse/ci.yml?style=flat&label=tests) |
-| [restore-drill](https://github.com/StefanYasin/restore-drill) | Verify your backups actually restore, in one command | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/restore-drill?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/restore-drill/ci.yml?style=flat&label=tests) |
+## New in October 2026
 
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## Working On
-
-Automation and AI across operations: agentic workflows, LLM pipelines for monitoring and security, cloud fundamentals (Azure, AWS), and growing these tools with community input.
-
-## Contact
-
-[Portfolio](https://stefanyasin.github.io/) | [LinkedIn](https://www.linkedin.com/in/stefanyasin/) | [Buy me a coffee](https://buymeacoffee.com/stefanthepro)
+| Project | What it does |
+| --- | --- |
+| [phonepilot](https://github.com/StefanYasin/phonepilot) | ESP32 AI agent platform for iPhones: autorun workflow templates, a social posting queue with confirmation, and a fleet manager |
+| [agentpulse](https://github.com/StefanYasin/agentpulse) | Operations dashboard for agent fleets: cron health, drift, errors, one dark page |
+| [esp32-mcp](https://github.com/StefanYasin/esp32-mcp) | MCP server that gives AI agents GPIO, relay, and sensor control of ESP32 hardware |
+| [agent-surface-report](https://github.com/StefanYasin/agent-surface-report) | Windows audit: what an AI agent could touch and how it could persist |
+| [re-ai](https://github.com/StefanYasin/re-ai) | Reverse engineering as a structured writeup: PE parsing, entropy, LLM analysis |
+| [mcp-firewall](https://github.com/StefanYasin/mcp-firewall) | Policy gateway and audit log for MCP tool calls |
+| [diagrams-from-json](https://github.com/StefanYasin/diagrams-from-json) | Architecture diagrams from a spec file: SVG, layers, labeled edges |
+| [trend-radar](https://github.com/StefanYasin/trend-radar) | What is trending on GitHub and HN, scored against a YAML skill profile |
+| [ollama-watch](https://github.com/StefanYasin/ollama-watch) | Local LLM monitoring: models, throughput, daily digest, dark dashboard |
