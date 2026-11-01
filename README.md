@@ -15,7 +15,16 @@
 
 </div>
 
-I build practical security, monitoring, and automation tools for homelabs and small teams. Technical operations and customer success background, hands-on with networks, servers, endpoints, and AI-driven workflows. Everything below is open source, tested, and actively maintained.
+I build practical security, monitoring, and automation tools for homelabs and small teams. Technical operations and customer success background, hands-on with networks, servers, endpoints, and AI-driven workflows. Currently: conversational AI and support automation for businesses. Agentic workflows, LLM pipelines, and the validation, monitoring, and logging discipline that makes them safe to run in production. Everything below is open source, tested, and actively maintained.
+
+## Conversational AI & Agent Operations
+
+| Project | What it does | Stack | Status |
+| --- | --- | --- | --- |
+| [phonepilot](https://github.com/StefanYasin/phonepilot) | Phone automation control plane: ESP32 BLE HID bridge, iOS Shortcuts, a workflow engine with validation and human approval points | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/phonepilot?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/phonepilot/ci.yml?style=flat&label=tests) |
+| [agentpulse](https://github.com/StefanYasin/agentpulse) | Read-only operations dashboard for AI agent cron fleets: failure streaks, drift, error text at a glance | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/agentpulse?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/agentpulse/ci.yml?style=flat&label=tests) |
+| [mcp-firewall](https://github.com/StefanYasin/mcp-firewall) | Policy gateway for MCP servers: allow or deny per tool, rate limits, JSONL audit log of every call | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/mcp-firewall?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/mcp-firewall/ci.yml?style=flat&label=tests) |
+| [agent-surface-report](https://github.com/StefanYasin/agent-surface-report) | Read-only audit of what an AI agent could touch or persist on a Windows machine | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/StefanYasin/agent-surface-report?style=flat) ![tests](https://img.shields.io/github/actions/workflow/status/StefanYasin/agent-surface-report/ci.yml?style=flat&label=tests) |
 
 ## Featured Projects
 
